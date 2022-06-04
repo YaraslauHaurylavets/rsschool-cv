@@ -1,1 +1,1 @@
-﻿https://yaraslauhaurylavets.github.io/rsschool-cv/cv.html
+﻿https://github.com/YaraslauHaurylavets/rsschool-cv
