@@ -1,7 +1,11 @@
 
 # Yaraslau Haurylavets
 
+<<<<<<< HEAD
 [![No face found](/images/TrollFace.jpg)](https://yaraslauhaurylavets.github.io/git_sandbox/surprise.html "I am too shy to post my own photo")                      
+=======
+[![No face found](/TrollFace.jpg)](https://yaraslauhaurylavets.github.io/git_sandbox/surprise.html "I am too shy to post my own photo")                      
+>>>>>>> 960a6e04f39f9e6a2cf0c611a5405b6d232c4a91
 
 ### Future JS warrior
 
